@@ -1,0 +1,32 @@
+Account Creation Time = 2023-07-24 22:20:11
+Account Number = 0101 ----  Holder Name = Talha Khalid ----  Balance (in PKR) = 0
+
+
+Transaction Time = 2023-07-24 22:20:28
+You deposited an amount of RS 16000 in your account
+Now your new Balance is (in PKR) = 16000
+
+
+Transaction Time = 2023-07-24 22:20:32
+You deposited an amount of RS 2500 in your account
+Now your new Balance is (in PKR) = 18500
+
+
+Transaction Time = 2023-07-24 22:20:38
+You deposited an amount of RS 2500 in your account
+Now your new Balance is (in PKR) = 21000
+
+
+Transaction Time = 2023-07-24 22:20:43
+You deposited an amount of RS 43000 in your account
+Now your new Balance is (in PKR) = 64000
+
+
+Transaction Time: 2023-07-24 22:20:51
+You Withdrawal an amount of RS 3000 from your account
+Now your new Balance is (in PKR) = 61000
+
+
+Transaction Time: 2023-07-24 22:20:56
+You Withdrawal an amount of RS 19780 from your account
+Now your new Balance is (in PKR) = 41220

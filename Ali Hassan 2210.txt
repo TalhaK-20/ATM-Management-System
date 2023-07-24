@@ -1,0 +1,27 @@
+Account Creation Time = 2023-07-24 22:21:52
+Account Number = 2210 ----  Holder Name = Ali Hassan ----  Balance (in PKR) = 0
+
+
+Transaction Time = 2023-07-24 22:21:59
+You deposited an amount of RS 25780 in your account
+Now your new Balance is (in PKR) = 25780
+
+
+Transaction Time: 2023-07-24 22:22:05
+You Withdrawal an amount of RS 2500 from your account
+Now your new Balance is (in PKR) = 23280
+
+
+Transaction Time = 2023-07-24 22:22:11
+You deposited an amount of RS 3000 in your account
+Now your new Balance is (in PKR) = 26280
+
+
+Transaction Time = 2023-07-24 22:22:17
+You deposited an amount of RS 5000 in your account
+Now your new Balance is (in PKR) = 31280
+
+
+Transaction Time: 2023-07-24 22:22:21
+You Withdrawal an amount of RS 8500 from your account
+Now your new Balance is (in PKR) = 22780
